@@ -10,9 +10,13 @@ redirect_from:
 
 Surgical Robot Enthusiast.
 
+------------------------------------------
+
 Interest: Robotics, Computer Vision, Biophotonics.
 * Expanding surgeon's eyes with optical imaging
 * Guiding medical robot with precise surgical navigation
+
+------------------------------------------
 
 Email: hyunggi.chang95 'at' gmail.com
 
