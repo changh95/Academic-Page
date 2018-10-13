@@ -15,6 +15,12 @@ Interest: Robotics, Computer Vision, Biophotonics.
 * Guiding medical robot with precise surgical navigation
 
 Email: hyunggi.chang95 'at' gmail.com
+
+
 CV: [Link](https://github.com/changh95/Curriculum-Vitae/blob/master/Curriculum_Vitae.pdf)
+
+
 Facebook: [Link](https://www.facebook.com/harry.chang.982)
+
+
 Github: [Link](https://github.com/changh95)
