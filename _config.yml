@@ -11,9 +11,9 @@ title                    : "Hyunggi Chang / MRes BEng"
 title_separator          : "-"
 name                     : &name "Hyunggi Chang"
 description              : &description ""
-url                      : https://changh95.github.io/Academic-Page/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Academic-Page/" # the subpath of your site, e.g. "/blog"
-repository               : "changh95/Academic-Page/"
+url                      : https://changh95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "changh95/changh95.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
