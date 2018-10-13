@@ -81,19 +81,19 @@ analytics:
 author:
   name             : "Hyunggi Chang"
   avatar           : "profile.png"
-  bio              : "Surgical Navigation Enthusiast"
-  location         : "London, Seoul"
+  bio              : 
+  location         : 
   employer         :
   googlescholar    : 
-  email            : "hyunggi.chang95@gmail.com"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/harry.chang.982
+  facebook         : 
   foursquare       :
-  github           : "changh95"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -102,7 +102,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
