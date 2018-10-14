@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "  "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,23 +16,13 @@ Education
   * Master of Research in **Medical Robotics and Image-Guided Intervention**
   * Awarded: **Merit**
   * Supervised by : Prof. Daniel Elson, Prof. Guang-Zhong Yang, Dr George Mylonas
-  * Core Modules:
-    * Medical Robotics and Instrumentation
-    * Medical Imaging
-    * Image-Guided Intervention
-    * Minimally Invasive Surgery 
-    * Sensing, Perception and Neuroergonomics
+
 
 * 2014-2017 School of Engineering, University of Warwick
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, GPA:
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
-  * Highlight modules:
-    * Engineering mathematics and Technical Computing
-    * Automation and Robotics
-    * CAD/CAM Simulation
-    * Quality Techniques
-    * Design for Manufacture
+
 
 * Self-study
 
