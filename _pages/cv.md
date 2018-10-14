@@ -37,7 +37,7 @@ Education
 * MOOCs / Books / Self-study
 
 My blog for recording self-study progression, as well as reviews of public learning resources 
-**[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)
+**[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
 
 * Before higher education
   * St Paul's London
