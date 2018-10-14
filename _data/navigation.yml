@@ -6,7 +6,7 @@ main:
   - title: "Blogs"
     url: /year-archive/
     
-    - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
