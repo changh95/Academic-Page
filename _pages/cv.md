@@ -38,12 +38,12 @@ Work Experience
 
 Leadership
 ==== 
-* 2018 Chair of Master's Journal Club at the Hamlyn Centre
-* 2018 Lead Student Ambassador of Hamlyn Robotics & AI Summer School
-* 2017 Lead Student Researcher at McKinsey & Company
-* 2017 Course Representative at the M.Res Medical Robotics and Image-Guided Intervention
-* 2016 University Representative for Institution of Mechanical Engineers (IMechE)
-* 2016 Course Representative for Manufacturing and Mechanical Engineering, and Engineering Business Management.
-* 2016 Industrial Links Officer for Warwick Engineering Society
-* 2016 Secretary for Warwick Korean Society
+* 2018 Chair of Master's Journal Club - Hamlyn Centre
+* 2018 Lead Student Ambassador - Hamlyn Robotics & AI Summer School
+* 2017 Lead Student Researcher - McKinsey & Company
+* 2017 Course Representative - Imperial College London
+* 2016 University Representative - Institution of Mechanical Engineers (IMechE)
+* 2016 Course Representative - University of Warwick
+* 2016 Industrial Links Officer - Warwick Engineering Society
+* 2016 Secretary - Warwick Korean Society
  
