@@ -34,9 +34,10 @@ Education
     * Quality Techniques
     * Design for Manufacture
 
-* Self-study
+* MOOCs / Books / Self-study
 
-My blog for recording self-study progression, as well as reviews of public learning resources [Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)
+My blog for recording self-study progression, as well as reviews of public learning resources 
+**[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)
 
 * Before higher education
   * St Paul's London
