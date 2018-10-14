@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-In essence, I am...
+In Essence, I am...
 ====
 
-Surgical Robot Enthusiast.
+A Surgical Robot Enthusiast
 
 ------------------------------------------
 
@@ -46,3 +46,8 @@ Blogs
 I run a few blogs to share knowledge and encourage fellow students.
 
 * Study-Resource-Reviews [Link](https://github.com/changh95/Study-Resources-Review)
+* Medical Imaging (Currently moving blog contents)
+* Machine Learning (Currently moving blog contents)
+* Robotics (Currently moving blog contents)
+* Simultaneous Localisation and Mapping (Currently moving blog contents)
+* Paper Recommendations (Currently moving blog contents)
