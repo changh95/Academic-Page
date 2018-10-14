@@ -56,7 +56,7 @@ Projects
 * **"Mechanical Optimisation of Endosopic Robot (CYCLOPS) for Bi-manual Suturing"**
   * Mehcanical optimisation of transferring suturing hand movements to the robot using cable-driven parallel mechanism.
 * **"Vision-Based Endoscopic Navigation Using SLAM"**
-  * Monocular vSlam on a rigid colon phantom.
+  * Monocular vSLAM on a rigid colon phantom.
 * **"Robotic Path Planning for Beating Heart Surgery"**
   * Inverse Kinematics of PUMA robot for a trajectory on a repeating regular deformation.
 * **Essay - "Natural Orifice Transluminal Surgery (NOTES), where does it stand?"**
