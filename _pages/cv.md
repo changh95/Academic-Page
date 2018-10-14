@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+Education
 
 Imperial College London
 ====
@@ -31,7 +31,7 @@ Before higher education
 * Dulwich College
 * Vinehall School
 
-# Work Experience
+ Work Experience
 
 * Winter 2017: Student Researcher
   * McKinsey & Company
@@ -41,7 +41,7 @@ Before higher education
   * Mirai Huson (South Korea)
   * Duties included: Design changes based on the simulations on PVC injection into plastic moulds.
 
-# Leadership
+Leadership
 
 * 2018 Chair of Master's Journal Club at the Hamlyn Centre
 * 2018 Lead Student Ambassador of Hamlyn Robotics & AI Summer School
