@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Surgical Robot Enthusiast.
 
 ------------------------------------------
 
-Interest: Robotics, Computer Vision, Biophotonics.
+Research interests: Robotics, Computer Vision, Biophotonics.
 * Expanding surgeon's eyes with optical imaging
 * Guiding medical robot with precise surgical navigation
 
