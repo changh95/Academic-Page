@@ -9,51 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Imperial College London
+====
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Master of Research in **Medical Robotics and Image-Guided Intervention** at the Hamlyn Centre, 2017-2018
+* Awarded: **Merit**
+* Supervised by : Prof. Daniel Elson, Prof. Guang-Zhong Yang, Dr Fernando Avila-Rencoret, Dr George Mylonas
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+University of Warwick
+====
+
+* Bachelor of Engineering in **Manufacturing and Mechanical Engineering** at the School of Engineering, 2014-2017
+* Awarded: **First-class Honours**, GPA:
+* Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
+
+Before higher education
+====
+* St Paul's London
+* Dulwich College
+* Vinehall School
+
+# Work Experience
+
+* Winter 2017: Student Researcher
+  * McKinsey & Company
+  * Duties included: Analysing core players in the commercial robotics and AI markets.
+
+* Summer 2014: Product Development Intern
+  * Mirai Huson (South Korea)
+  * Duties included: Design changes based on the simulations on PVC injection into plastic moulds.
+
+# Leadership
+
+* 2018 Chair of Master's Journal Club at the Hamlyn Centre
+* 2018 Lead Student Ambassador of Hamlyn Robotics & AI Summer School
+* 2017 Lead Student Researcher at McKinsey & Company
+* 2017 Course Representative at the M.Res Medical Robotics and Image-Guided Intervention
+* 2016 University Representative for Institution of Mechanical Engineers (IMechE)
+* 2016 Course Representative for Manufacturing and Mechanical Engineering, and Engineering Business Management.
+* 2016 Industrial Links Officer for Warwick Engineering Society
+* 2016 Secretary for Warwick Korean Society
+ 
