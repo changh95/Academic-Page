@@ -12,15 +12,32 @@ redirect_from:
 Education
 ====
 
-* Imperial College London
-  * Master of Research in **Medical Robotics and Image-Guided Intervention** at the Hamlyn Centre, 2017-2018
+* 2017 - 2018 Hamlyn Centre, Imperial College London
+  * Master of Research in **Medical Robotics and Image-Guided Intervention**
   * Awarded: **Merit**
-  * Supervised by : Prof. Daniel Elson, Prof. Guang-Zhong Yang, Dr Fernando Avila-Rencoret, Dr George Mylonas
+  * Supervised by : Prof. Daniel Elson, Prof. Guang-Zhong Yang, Dr George Mylonas
+  * Core Modules:
+    * Medical Robotics and Instrumentation
+    * Medical Imaging
+    * Image-Guided Intervention
+    * Minimally Invasive Surgery 
+    * Sensing, Perception and Neuroergonomics
 
-* University of Warwick
-  * Bachelor of Engineering in **Manufacturing and Mechanical Engineering** at the School of Engineering, 2014-2017
+* 2014-2017 School of Engineering, University of Warwick
+  * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, GPA:
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
+  * Highlight modules:
+    * Engineering mathematics and Technical Computing
+    * Automation and Robotics
+    * CAD/CAM Simulation
+    * Quality Techniques
+    * Design for Manufacture
+
+* Self-study
+
+My blog for recording self-study progression, as well as reviews of public learning resources [Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)
+
 * Before higher education
   * St Paul's London
   * Dulwich College
@@ -31,6 +48,10 @@ Work Experience
 * Winter 2017: Student Researcher
   * McKinsey & Company
   * Duties included: Analysing core players in the commercial robotics and AI markets.
+
+* 2016-2018: Freelance Academic Paper Translator
+  * CACTUS Communications ltd.
+  * Duties included: Translating engineering Masters and PhD papers from Korean to English and vice-versa.
 
 * Summer 2014: Product Development Intern
   * Mirai Huson (South Korea)
