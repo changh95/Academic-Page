@@ -11,7 +11,20 @@ redirect_from:
 In Essence, I am...
 ====
 
-A Surgical Robot Enthusiast
+A Surgical Robot Enthusiast,
+
+A Proud Follower of Proactive Serendipity,
+
+A Member of a Happy Family and a Healthy Community.
+
+-------------------------------------------------
+
+Currently I am...
+====
+
+Planning to return to Korea before November 2018.
+
+Looking for a research position (전문연) in computer vision or medical robotics area.
 
 ------------------------------------------
 
