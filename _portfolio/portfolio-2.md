@@ -25,6 +25,3 @@ Software used:
 Please be aware that some videos in the presentation file, which may have been copyrighted, or should not be disclosed due to research progress, have been removed or been replaced with a static image.
 
 ![alt text](https://github.com/changh95/changh95.github.io/blob/master/images/portfolio_2.png?raw=true)
-
-
-![alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/3.png?raw=true)
