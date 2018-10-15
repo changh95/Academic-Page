@@ -6,7 +6,7 @@ collection: portfolio
 
 Group presentation file can be found in the link **[link](https://github.com/changh95/changh95.github.io/blob/master/files/CYCLOPS.pptx?raw=true)**.
 
-This project aims to optimise the Cable-Driven Parallel mechanism within the CYCLOPS robot system. CYCLOPS robot system is an endoscopic robot system built for Endoscopic Submucosal Dissection (ESD) operation, developed by the HARMS Lab at Imperial College London, lead by Dr George Mylonas. During this 3 months group project, I had an amazing opportunity to use my knowledge on manufacturing on building the data collection rig, especially on the configuration of infrared tracking and actuator specification.
+This project aims to optimise the Cable-Driven Parallel mechanism within the CYCLOPS robot system. CYCLOPS robot system is an endoscopic robot system built for Endoscopic Submucosal Dissection (ESD) operation, developed by the HARMS Lab at Imperial College London, lead by Dr George Mylonas. During this 3 months group project, I had an amazing opportunity to use my knowledge on manufacturing on **building the data collection rig**, especially on the **configuration of infrared tracking and actuator specification**.
 
 Hardware used:
 * ATI nano17 6DOF sensor
