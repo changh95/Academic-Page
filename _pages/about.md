@@ -17,6 +17,8 @@ A Proud Follower of Proactive Serendipity,
 
 A Member of a Happy Family and a Healthy Community.
 
+-------------------------------------------------
+
 Currently I am...
 ====
 
