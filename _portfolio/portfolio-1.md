@@ -1,6 +1,6 @@
 ---
 title: "Robotic Path Planning of a PUMA robot for beating heart surgery"
-excerpt: "MATLAB Programming coursework for Robotics course <br/><img src='/images/portfolio_1.png'>"
+excerpt: "MATLAB Programming coursework for Robotics course>"
 collection: portfolio
 ---
 
