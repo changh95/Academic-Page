@@ -1,6 +1,6 @@
 ---
 title: "Robotic Path Planning for Beating Heart Surgery - MATLAB"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio_1.png'>"
 collection: portfolio
 ---
 
