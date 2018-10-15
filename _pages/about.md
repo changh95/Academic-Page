@@ -24,7 +24,7 @@ Currently I am...
 
 Planning to return to Korea before November 2018.
 
-Looking for a research position (전문연) in computer vision or medical robotics area.
+Looking for a research position (전문연구요원) in computer vision or medical robotics area.
 
 ------------------------------------------
 
