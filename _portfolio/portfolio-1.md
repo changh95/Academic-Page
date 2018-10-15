@@ -4,7 +4,6 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-# MATLAB-Robot-Path-Planning
 This repository [Link](https://github.com/changh95/MATLAB-Robot-Path-Planning) includes MATLAB codes for robotic path planning of a PUMA robot using Robotics Toolbox by Peter Corke [Link](http://petercorke.com/wordpress/toolboxes/robotics-toolbox). The purpose of this code was purely for academic coursework, and may not represent the complexity of real-world situations. The coursework context assumes that the programmer is performing path planning for PUMA robot to perform beating heart surgery.
 
 **Used software:**
