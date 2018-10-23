@@ -14,6 +14,8 @@ MOOCs / Books / Self-study
 ====
 * List and review of study resources I used  **[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
 
+<br />
+
 Education
 ====
 
@@ -31,6 +33,8 @@ Education
     <li>Sensing, Perception and Neuroergonomics</li>
   </ul>
 </div>
+
+<br />
 
 * 2014-2017 School of Engineering, **University of Warwick**
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
@@ -63,11 +67,14 @@ Education
   </ul>
 </div>
 
+<br />
 
 * Before higher education
   * St Paul's London
   * Dulwich College
   * Vinehall School
+
+<br />
 
 Projects
 ====
@@ -95,6 +102,8 @@ Projects
   * Development of an MRI phantom for deliberate artefact generation for education purpose, using industrial product development techniques.
 * **"Analysis of Industry 4.0 Based Manufacturing System Architecture on Quality Perspective"**
   * Literature review of technological advances related to Industry 4.0.
+
+<br />
 
 Work Experience
 ====
