@@ -26,14 +26,14 @@ Education
 
 * 2014-2017 School of Engineering, University of Warwick
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
-  * Awarded: **First-class Honours**, GPA:
+  * Awarded: **First-class Honours**, GPA: 4.39/4.50 (UK->GPA conversion)
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
   * Highlight modules:
-    * Engineering mathematics and Technical Computing
-    * Automation and Robotics
-    * CAD/CAM Simulation
-    * Quality Techniques
-    * Design for Manufacture
+    * Engineering mathematics and Technical Computing (97%)
+    * Automation and Robotics (94%)
+    * CAD/CAM Simulation (91%)
+    * Quality Techniques (90%)
+    * Design for Manufacture (89%)
 
 * MOOCs / Books / Self-study
   * List and review of study resources I used **[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
