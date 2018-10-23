@@ -36,7 +36,7 @@ Education
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, **GPA: 4.34/4.50** (UK->GPA conversion)
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
-  <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
     <li>Design for Function</li>
@@ -60,7 +60,7 @@ Education
     <li>Design and Management of Lean Operations(65%)</li>
     <li>Design for Manufacture(89%)</li>
     <li>Industrial Engineering(68%)</li>
-</ul>
+  </ul>
 </div>
 
 
