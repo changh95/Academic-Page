@@ -12,7 +12,7 @@ redirect_from:
 Education
 ====
 
-* 2017 - 2018 **The Hamlyn Centre, Imperial College London**
+* 2017 - 2018 The Hamlyn Centre, **Imperial College London**
   * Master of Research in **Medical Robotics and Image-Guided Intervention**
   * Awarded: **Merit**
   * Supervised by : Prof. Daniel Elson, Prof. Guang-Zhong Yang, Dr George Mylonas
@@ -24,7 +24,7 @@ Education
     * Sensing, Perception and Neuroergonomics
 
 
-* 2014-2017 **School of Engineering, University of Warwick**
+* 2014-2017 School of Engineering, **University of Warwick**
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, **GPA: 4.29/4.50** (UK->GPA conversion)
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
