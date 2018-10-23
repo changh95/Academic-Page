@@ -12,7 +12,7 @@ redirect_from:
 
 MOOCs / Books / Self-study
 ====
-* List and review of study resources I used  **[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
+* List and review of study resources I used  **[Click the Link to Open](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
 
 <br />
 
