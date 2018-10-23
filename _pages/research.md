@@ -16,11 +16,11 @@ Projects
 **MRes:**
 
 * **"A Real-Time Intraoperative Data Mapping Device for Probe-Based Measurement Using Computer Vision"**
-  * Real-time estimation of optical biopsy location using vision-based tracking.
+  * Real-time tracking of intraoperative optical biopsy position using vision-based tracking.
 * **"Intraoperative Tissue Classification using Hyperspectral Sensing"**
-  * Classification of optical spectroscopic data using Support Vector Machine (SVM)
+  * Classification of diffuse reflectance spectra of gastrointestinal cancers and healthy tissues, using Support Vector Machine (SVM)
 * **"Mechanical Optimisation of Endosopic Robot (CYCLOPS) for Bi-manual Suturing"**
-  * Mehcanical optimisation of transferring suturing hand movements to the robot using cable-driven parallel mechanism.
+  * A group project on mechanical optimsation of the cable-driven parallel mechanism (CDPM) in the CYCLOPS robot, for an effective transfer of suturing hand movements to the robo. Infrared tracking and workspace optimisation using Pattern Search Particle Swarm Optimisation (PSwarm) were used. I was in charge of hardware development, which included infrared tracking rig and actuator system.
 * **"Vision-Based Endoscopic Navigation Using SLAM"**
   * Monocular vSLAM on a rigid colon phantom.
 * **"Robotic Path Planning for Beating Heart Surgery"**
