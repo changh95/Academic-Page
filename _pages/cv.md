@@ -21,12 +21,16 @@ Education
   * Master of Research in **Medical Robotics and Image-Guided Intervention**
   * Awarded: **Merit**
   * Supervised by : Prof. Daniel Elson, Prof. Guang-Zhong Yang, Dr George Mylonas
-  * Core Modules:
-    * Medical Robotics and Instrumentation
-    * Medical Imaging
-    * Image-Guided Intervention
-    * Minimally Invasive Surgery 
-    * Sensing, Perception and Neuroergonomics
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<div class="dspcont" style='display:none;'>
+  <ul>
+    <li>Medical Imaging</li>
+    <li>Image Guided Intervention</li>
+    <li>Medical Robotics</li>
+    <li>Minimal Invasive Surgery</li>
+    <li>Sensing, Perception and Neuroergonomics</li>
+  </ul>
+</div>
 
 * 2014-2017 School of Engineering, **University of Warwick**
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
