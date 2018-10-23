@@ -26,6 +26,8 @@ Planning to return to Korea before November 2018.
 
 Looking for a research position (전문연구요원) in computer vision or medical robotics area.
 
+Self-studying SLAM, Machine Learning and Deep Learning
+
 ------------------------------------------
 
 Research Interests
