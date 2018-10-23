@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
+MOOCs / Books / Self-study
+====
+* List and review of study resources I used  **[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
+
 Education
 ====
-
-* MOOCs / Books / Self-study
-  * List and review of study resources I used  **[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
 
 * 2017 - 2018 The Hamlyn Centre, **Imperial College London**
   * Master of Research in **Medical Robotics and Image-Guided Intervention**
