@@ -12,6 +12,9 @@ redirect_from:
 Education
 ====
 
+* MOOCs / Books / Self-study
+  * List and review of study resources I used  **[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
+
 * 2017 - 2018 The Hamlyn Centre, **Imperial College London**
   * Master of Research in **Medical Robotics and Image-Guided Intervention**
   * Awarded: **Merit**
@@ -23,7 +26,6 @@ Education
     * Minimally Invasive Surgery 
     * Sensing, Perception and Neuroergonomics
 
-
 * 2014-2017 School of Engineering, **University of Warwick**
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, **GPA: 4.29/4.50** (UK->GPA conversion)
@@ -34,9 +36,6 @@ Education
     * CAD/CAM Simulation (91%)
     * Quality Techniques (90%)
     * Design for Manufacture (89%)
-
-* MOOCs / Books / Self-study
-  * List and review of study resources I used  `[Link](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)`
 
 * Before higher education
   * St Paul's London
