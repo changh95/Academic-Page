@@ -35,7 +35,7 @@ Education
 * 2014-2017 School of Engineering, **University of Warwick**
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, **GPA: 4.34/4.50** (UK->GPA conversion)
-  * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
+  * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles  
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
