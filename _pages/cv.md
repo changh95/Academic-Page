@@ -34,7 +34,7 @@ Education
 
 * 2014-2017 School of Engineering, **University of Warwick**
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
-  * Awarded: **First-class Honours**, **GPA: 4.29/4.50** (UK->GPA conversion)
+  * Awarded: **First-class Honours**, **GPA: 4.34/4.50** (UK->GPA conversion)
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
@@ -46,20 +46,20 @@ Education
     <li>Circuits, Devices and Power Systems</li>
     <li>Engineering Skills</li>
     <li>Introduction to Engineering Business Management</li>
-    <li>Engineering Design</li>
-    <li>Engineering Mathematics and Technial Computing</li>
-    <li>Mechanics and Thermofluids</li>    
-    <li>Energy Conservation and Power Systems</li>
-    <li>Technical Operations Management</li>
-    <li>Engineering Materials</li>
-    <li>Introduction to Secondary School Teaching (Physics)</li>
-    <li>Project</li>
-    <li>Automation and Robotics</li>
-    <li>Quality Techniques</li>
-    <li>CAD/CAM Simulation</li>
-    <li>Design and Management of Lean Operations</li>
-    <li>Design for Manufacture</li>
-    <li>Industrial Engineering</li>
+    <li>Engineering Design(86%)</li>
+    <li>Engineering Mathematics and Technial Computing(97%)</li>
+    <li>Mechanics and Thermofluids(67%)</li>    
+    <li>Energy Conservation and Power Systems(63%)</li>
+    <li>Technical Operations Management(68%)</li>
+    <li>Engineering Materials(65%)</li>
+    <li>Introduction to Secondary School Teaching (Physics) (65%)</li>
+    <li>Project(85%)</li>
+    <li>Automation and Robotics(94%)</li>
+    <li>Quality Techniques(90%)</li>
+    <li>CAD/CAM Simulation(91%)</li>
+    <li>Design and Management of Lean Operations(65%)</li>
+    <li>Design for Manufacture(89%)</li>
+    <li>Industrial Engineering(68%)</li>
 </ul>
 </div>
 
