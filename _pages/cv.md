@@ -36,12 +36,33 @@ Education
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, **GPA: 4.29/4.50** (UK->GPA conversion)
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles
-  * Highlight modules:
-    * Engineering mathematics and Technical Computing (97%)
-    * Automation and Robotics (94%)
-    * CAD/CAM Simulation (91%)
-    * Quality Techniques (90%)
-    * Design for Manufacture (89%)
+  <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<div class="dspcont" style='display:none;'>
+  <ul>
+    <li>Design for Function</li>
+    <li>Aesthetics of Design</li>
+    <li>Engineering Mathematics and Systems Modelling</li>
+    <li>Mechanics, Structures and Thermodynamics</li>
+    <li>Circuits, Devices and Power Systems</li>
+    <li>Engineering Skills</li>
+    <li>Introduction to Engineering Business Management</li>
+    <li>Engineering Design</li>
+    <li>Engineering Mathematics and Technial Computing</li>
+    <li>Mechanics and Thermofluids</li>    
+    <li>Energy Conservation and Power Systems</li>
+    <li>Technical Operations Management</li>
+    <li>Engineering Materials</li>
+    <li>Introduction to Secondary School Teaching (Physics)</li>
+    <li>Project</li>
+    <li>Automation and Robotics</li>
+    <li>Quality Techniques</li>
+    <li>CAD/CAM Simulation</li>
+    <li>Design and Management of Lean Operations</li>
+    <li>Design for Manufacture</li>
+    <li>Industrial Engineering</li>
+</ul>
+</div>
+
 
 * Before higher education
   * St Paul's London
