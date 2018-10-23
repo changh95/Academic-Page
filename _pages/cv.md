@@ -23,7 +23,7 @@ Education
   * Master of Research in **Medical Robotics and Image-Guided Intervention**
   * Awarded: **Merit**
   * Supervised by : Prof. Daniel Elson, Prof. Guang-Zhong Yang, Dr George Mylonas
-<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses(click to open)</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
     <li>Medical Imaging</li>
@@ -40,7 +40,7 @@ Education
   * Bachelor of Engineering in **Manufacturing and Mechanical Engineering**
   * Awarded: **First-class Honours**, **GPA: 4.34/4.50** (UK->GPA conversion)
   * Supevised by : Dr Joanna Collingwood, Mr Graeme Knowles  
-<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses(click to open)</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
     <li>Design for Function</li>
