@@ -90,6 +90,8 @@ Work Experience
   * Mirai Huson (South Korea)
   * Duties included: Design changes based on the simulations on PVC injection into plastic moulds.
 
+<br />
+
 Leadership
 ==== 
 * 2018 Chair of Master's Journal Club - Hamlyn Centre
@@ -100,7 +102,9 @@ Leadership
 * 2016 Course Representative - University of Warwick
 * 2016 Industrial Links Officer - Warwick Engineering Society
 * 2016 Secretary - Warwick Korean Society
- 
+
+<br />
+
 Teaching
 ====
 
