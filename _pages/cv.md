@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+--------------------------
 
 MOOCs / Books / Self-study
 ====
 * List and review of study resources I used  **[Click the Link to Open](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
 
-<br />
+
+-------------------
 
 Education
 ====
@@ -78,7 +80,7 @@ Education
   * Dulwich College (8A* 2A, including English Language)
   * Vinehall School
 
-<br />
+------------------
 
 Work Experience
 ====
@@ -94,7 +96,7 @@ Work Experience
   * Mirai Huson (South Korea)
   * Duties included: Design changes based on the simulations on PVC injection into plastic moulds.
 
-<br />
+----------------
 
 Leadership
 ==== 
@@ -107,7 +109,7 @@ Leadership
 * 2016 Industrial Links Officer - Warwick Engineering Society
 * 2016 Secretary - Warwick Korean Society
 
-<br />
+----------------
 
 Teaching
 ====
