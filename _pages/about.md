@@ -13,16 +13,12 @@ In Essence, I am...
 
 A Surgical Robot Enthusiast,
 
-A Proud Follower of Proactive Serendipity,
-
-A Member of a Happy Family.
+A Proud Follower of Proactive Serendipity
 
 -------------------------------------------------
 
 Currently I am...
 ====
-
-Planning to return to Korea before November 2018.
 
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
 
