@@ -30,6 +30,8 @@ Projects
 * **Essay - "Literature Review of Medical Robot Technologies"**
   * Described the advances in surgical robotic platforms that have recently reached the marketplace or have been described in the literature, and evaluated the functionality, novelty and cost-effectiveness compared with established systems.
 
+------------
+
 **BEng:**
 
 * **"Development of modular training phantom for MRI radiologists"**
