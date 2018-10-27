@@ -15,6 +15,8 @@ A Surgical Robot Enthusiast,
 
 A Proud Follower of Proactive Serendipity
 
+A Fearless Learner with Bi-Cultural Education (6 Years in Korea, 10 Years in the UK!)
+
 -------------------------------------------------
 
 Currently I am...
