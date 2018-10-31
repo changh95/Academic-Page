@@ -26,6 +26,8 @@ Looking for a research position **(전문연구요원) in computer vision or med
 
 Self-studying **SLAM**, **Machine Learning** and **Deep Learning**
 
+Got Accepted for **"Udacity / Facebook Pytorh Scholarship Challenge"**
+
 ------------------------------------------
 
 Research Interests
