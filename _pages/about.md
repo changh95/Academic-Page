@@ -22,6 +22,8 @@ A Fearless Learner with Bi-Cultural Education (6 Years in Korea, 10 Years in the
 Currently I am...
 ====
 
+Currently in South Korea.
+
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
 
 Self-studying **SLAM**, **Machine Learning** and **Deep Learning**
