@@ -100,6 +100,7 @@ Work Experience
 
 Leadership
 ==== 
+* 2018 Leader of Pytorch KR Group - Pytorch Udacity Facebook Challenge
 * 2018 Chair of Master's Journal Club - Hamlyn Centre
 * 2018 Lead Student Ambassador - Hamlyn Robotics & AI Summer School
 * 2017 Lead Student Researcher - McKinsey & Company
