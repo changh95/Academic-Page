@@ -26,9 +26,7 @@ Currently in South Korea.
 
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
 
-Self-studying **SLAM**, **Machine Learning** and **Deep Learning**
-
-Got Accepted for **"Udacity / Facebook Pytorh Scholarship Challenge"**! Starting the course from 09th Nov 2018, for 2 months.
+Undertaking **'Pytorch Udacity Facebook Challenge'**! Currently leading the **Pytorch Korea Study Group**.
 
 ------------------------------------------
 
