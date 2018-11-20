@@ -26,7 +26,7 @@ Currently in South Korea.
 
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
 
-Undertaking **'Pytorch Udacity Facebook Challenge'**! Currently leading the **Pytorch Korea Study Group**.
+Undertaking **'Pytorch Udacity Facebook Scholarship Challenge'**! Currently leading the **Pytorch Korea Study Group**.
 
 ------------------------------------------
 
