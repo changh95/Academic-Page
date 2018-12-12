@@ -115,9 +115,9 @@ Leadership
 Teaching
 ====
 
-* Summer 2016 : Residential Maths & Science Teacher
+* Summer 2016 : Residential Maths & Science Teacher [(Video Link)](https://vimeo.com/179879639)
   * The Mount, Mill Hill International
-  * Duties included: Taught maths & Science to non-English speaking students from age 12 to 18, for 8 weeks.
+  * Duties included: Taught maths & Science to non-English speaking students from age 12 to 18.
   
 * Spring 2016 : Teaching Assistant
   * North Leamington School
