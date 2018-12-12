@@ -76,7 +76,7 @@ Education
 <br />
 
 * Before higher education
-  * St Paul's London (Maths, Further Maths, Physics, Chemistry, Extended Project - Engineering Artefact)
+  * St Paul's School, London (Maths, Further Maths, Physics, Chemistry, Extended Project - Engineering Artefact)
   * Dulwich College (8A* 2A, including English Language)
   * Vinehall School
 
