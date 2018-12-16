@@ -15,7 +15,7 @@ Projects
 
 **Individual:**
 
-* **"Image Style Transfer"
+* **"Image Style Transfer"**
   * Implementation of Gatys et al.’s Neural-Style Algorithm using PyTorch
 * **“Image Classification of Flower Species”**
   * Built an image-classifier for 109 different species of plant based on their petal shapes.
