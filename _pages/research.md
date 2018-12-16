@@ -13,6 +13,17 @@ redirect_from:
 Projects
 ====
 
+**Individual:**
+
+* **"Image Style Transfer"
+  * Implementation of Gatys et al.’s Neural-Style Algorithm using PyTorch
+* **“Image Classification of Flower Species”**
+  * Built an image-classifier for 109 different species of plant based on their petal shapes.
+* **“Survivor Search and Environment Mapping Rover for Disaster Situations”**
+  * Built a mobile rover using Jetson TX2, using SLAM, YOLO and Android control.
+* **“Surgical Cobot Control using QR Code Commands”**
+  * A concept code to use cobots in surgical theatre to pick up and pass tools to surgeons.
+
 **MRes:**
 
 * **"A Real-Time Intraoperative Data Mapping Device for Probe-Based Measurement Using Computer Vision"**
