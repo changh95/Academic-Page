@@ -13,7 +13,7 @@ redirect_from:
 
 MOOCs / Books / Self-study
 ====
-* List and review of study resources I used  **[Click the Link to Open](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
+* List and review of study resources I used  **[(Link)](https://github.com/changh95/Study-Resources-Review/blob/master/README.md)**
 
 
 -------------------
@@ -76,7 +76,7 @@ Education
 <br />
 
 * Before higher education
-  * St Paul's London (Maths, Further Maths, Physics, Chemistry, Extended Project - Engineering Artefact)
+  * St Paul's School, London (Maths, Further Maths, Physics, Chemistry, Extended Project - Engineering Artefact)
   * Dulwich College (8A* 2A, including English Language)
   * Vinehall School
 
@@ -115,9 +115,9 @@ Leadership
 Teaching
 ====
 
-* Summer 2016 : Residential Maths & Science Teacher
+* Summer 2016 : Residential Maths & Science Teacher [(Video Link)](https://vimeo.com/179879639)
   * The Mount, Mill Hill International
-  * Duties included: Taught maths & Science to non-English speaking students from age 12 to 18, for 8 weeks.
+  * Duties included: Taught maths & Science to non-English speaking students from age 12 to 18.
   
 * Spring 2016 : Teaching Assistant
   * North Leamington School
