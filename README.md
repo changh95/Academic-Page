@@ -1,3 +1,9 @@
-Hyunggi Chang's Academic Page
+Welcome to Hyunggi Chang's Academic Page Github Repo!
 
-https://changh95.github.io/
+I am a student based in South Korea and the United Kingdom!
+
+Primarily my interests are **Surgical Vision**, **Biomedical Optics**, **Deep Learning** and **Medical Robotics** !
+
+To learn about me, please visit https://changh95.github.io/ !
+
+To contact me or to become my friend, also follow the link and find my email!
