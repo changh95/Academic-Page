@@ -26,7 +26,7 @@ Currently in Cambridge, United Kingdom.
 
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
 
-Until the end of March, I'll be working as a **Visiting Researcher** at the **Cavendish Lab** at the **University of Cambridge / Cancer Research UK Cambridge Institute**.
+Until the end of March, I'll be working as a **Visiting Researcher** at the **Cavendish Lab** at the **University of Cambridge / Cancer Research UK Cambridge Institute**. I am working on computer vision aspect of hyperspectral imaging system (HSI) for early-stage cancer detection.
 
 ------------------------------------------
 
