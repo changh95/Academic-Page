@@ -29,6 +29,8 @@ Projects
   * A concept code to use cobots in surgical theatre to pick up and pass tools to surgeons.
 * **“Coding Computer Vision Techniques”**
   * MATLAB and Python implementation of SfM, Lidar SLAM, VO etc
+  
+  
 ------------
 
 **MRes:**
