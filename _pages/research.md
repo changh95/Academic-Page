@@ -28,7 +28,7 @@ Projects
 * **“Surgical Cobot Control using QR Code Commands”**
   * A concept code to use cobots in surgical theatre to pick up and pass tools to surgeons.
 * **“Coding Computer Vision Techniques”**
-  * MATLAB and Python implementation of Structure from Motion (SfM), Lidar SLAM, 3D map reconstruction, Visual odometry etc
+  * MATLAB and Python implementation of SfM, Lidar SLAM, VO etc
 ------------
 
 **MRes:**
