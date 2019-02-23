@@ -15,14 +15,21 @@ Projects
 
 **Individual:**
 
+* **“Survivor Search and Environment Mapping Rover for Disaster Situations”"**
+  * Built a mobile rover using Jetson TX2, using SLAM, YOLO and Android control.
+* **“Snapchat-like Face Filters using OpenCV and Dlib”**
+  * Built Spot-removal filter, AR Kawaii-filter, Emotion masks, and Panda-meme generator.
 * **"Image Style Transfer"**
   * Implementation of Gatys et al.’s Neural-Style Algorithm using PyTorch
 * **“Image Classification of Flower Species”**
   * Built an image-classifier for 109 different species of plant based on their petal shapes.
-* **“Survivor Search and Environment Mapping Rover for Disaster Situations”**
-  * Built a mobile rover using Jetson TX2, using SLAM, YOLO and Android control.
+* **“Recreate ZED Camera with Webcams and OpenCV”**
+  * Built a depth-map enabling camera system using more affordable options.
 * **“Surgical Cobot Control using QR Code Commands”**
   * A concept code to use cobots in surgical theatre to pick up and pass tools to surgeons.
+* **“Coding Computer Vision Techniques”**
+  * MATLAB and Python implementation of Structure from Motion (SfM), Lidar SLAM, 3D map reconstruction, Visual odometry etc
+------------
 
 **MRes:**
 
