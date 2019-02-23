@@ -11,7 +11,7 @@ redirect_from:
 In Essence, I am...
 ====
 
-A Surgical Robot Enthusiast,
+A Computer Vision Enthusiast,
 
 A Proud Follower of Proactive Serendipity
 
@@ -22,7 +22,7 @@ A Fearless Learner with Bi-Cultural Education (6 Years in Korea, 10 Years in the
 Currently I am...
 ====
 
-Currently in Cambridge, United Kingdom.
+Currently in **Cambridge, United Kingdom**.
 
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
 
@@ -33,9 +33,10 @@ Until the end of March, I'll be working as a **Visiting Researcher** at the **Ca
 Research Interests
 ====
 
-Robotics, Computer Vision, Biophotonics.
-* Expanding surgeon's eyes with optical imaging
-* Guiding medical robot with precise surgical navigation
+3D Vision, Deep Learning, Optical Sensing
+- Providing a better user interface through high-level information processing
+- Achieving beyond visible spectra vision capability via optical sensing
+- Building an optimised hardware and software configuration for best performance
 
 ------------------------------------------
 
