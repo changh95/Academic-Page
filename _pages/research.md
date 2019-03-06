@@ -15,22 +15,24 @@ Projects
 
 **Individual:**
 
-* **“Survivor Search and Environment Mapping Rover for Disaster Situations”"**
-  * Built a mobile rover using Jetson TX2, using SLAM, YOLO and Android control.
+* **“Mobile Rover for Environment Mapping and Human Detection”**
+  * Built a voice-controlled rover on Jetson TX2, using RTAB-map (SLAM) and tiny-YOLO.
+  * Award winning project at Embedded AI Hackathon.
+* **“Dynamic Feature Segmentation during Structure from Motion”**
+  * Segmentation of dynamic objects in the scene using epipolar constraints.
 * **“Snapchat-like Face Filters using OpenCV and Dlib”**
-  * Built Spot-removal filter, AR Kawaii-filter, Emotion masks, and Panda-meme generator.
-* **"Image Style Transfer"**
-  * Implementation of Gatys et al.’s Neural-Style Algorithm using PyTorch
+  * Built Spot-removal filter, AR Kawaii-filter, Emotion masks, and Panda-face filter.
+* **“Make Surgical Scenes Less Disturbing”**
+  * Reduced visual disturbance in surgical images via Neural-Style Algorithm and frame buffer.
 * **“Image Classification of Flower Species”**
-  * Built an image-classifier for 109 different species of plant based on their petal shapes.
-* **“Recreate ZED Camera with Webcams and OpenCV”**
-  * Built a depth-map enabling camera system using more affordable options.
-* **“Surgical Cobot Control using QR Code Commands”**
+  * Built an image-classifier for plants based on their petal shapes.
+* **“Depth Mapping and Visualisation using Multiple Webcams and OpenCV”**
+  * Built a depth estimation system more affordable compared to commercial depth cameras.
+* **“Surgical Cobot Control using Gaze Control and QR Code Commands”**
   * A concept code to use cobots in surgical theatre to pick up and pass tools to surgeons.
-* **“Coding Computer Vision Techniques”**
-  * MATLAB and Python implementation of SfM, Lidar SLAM, VO etc
-  
-  
+* **“Computer Vision Programming Practice”**
+  * Implementation of Structure from Motion (SfM), Lidar SLAM, 3D map reconstruction, Visual odometry etc
+
 ------------
 
 **MRes:**
@@ -58,5 +60,7 @@ Projects
   * Development of an MRI phantom for deliberate artefact generation for education purpose, using industrial product development techniques.
 * **"Analysis of Industry 4.0 Based Manufacturing System Architecture on Quality Perspective"**
   * Literature review of technological advances related to Industry 4.0.
+* **“Text Writing Robots”**
+  * Programmed an ABB robot to convert a text input into physical writing.
 
 <br />
