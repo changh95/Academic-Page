@@ -84,6 +84,10 @@ Education
 
 Work Experience
 ====
+* Spring 2019: Visiting Researcher
+  * Cavendish Lab, University of Cambridge 
+  * Duties included: Generation of 3.5D hyperspectral point cloud using Structure from Motion (SfM) and hyperspectral spatio-matching, via wide-field endoscopic imaging simulation.
+
 * Winter 2017: Student Researcher
   * McKinsey & Company
   * Duties included: Analysing core players in the commercial robotics and AI markets.
@@ -100,13 +104,13 @@ Work Experience
 
 Leadership
 ==== 
-* 2018 Leader of Pytorch KR Group - Pytorch Udacity Facebook Challenge
-* 2018 Chair of Master's Journal Club - Hamlyn Centre
-* 2018 Lead Student Ambassador - Hamlyn Robotics & AI Summer School
+* 2018 Scholarship Group Leader - Facebook Udacity PyTorch Scholarship Programme
+* 2018 Lead Student Ambassador - The Hamlyn Robotic & AI Summer School
+* 2018 Master's Journal Club Lead - Imperial College London
 * 2017 Lead Student Researcher - McKinsey & Company
 * 2017 Course Representative - Imperial College London
+* 2016 Course Representative - The University of Warwick
 * 2016 University Representative - Institution of Mechanical Engineers (IMechE)
-* 2016 Course Representative - University of Warwick
 * 2016 Industrial Links Officer - Warwick Engineering Society
 * 2016 Secretary - Warwick Korean Society
 
