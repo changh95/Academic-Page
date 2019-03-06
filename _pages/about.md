@@ -34,9 +34,12 @@ Research Interests
 ====
 
 3D Vision, Deep Learning, Optical Sensing
-- Providing a better user interface through high-level information processing
-- Achieving beyond visible spectra vision capability via optical sensing
+
+- Enabling a better user interaction by accurate representation of 3D world
+- Extend vision capability beyond visible spectrum with optical sensing
 - Building an optimised hardware and software configuration for best performance
+
+
 
 ------------------------------------------
 
@@ -63,8 +66,8 @@ I run a few blogs to share knowledge and encourage fellow students.
 
 * Study-Resource-Reviews [Link](https://github.com/changh95/Study-Resources-Review)
 * Medical Imaging [Link](https://changh95.github.io/MIN/) (Currently moving blog contents)
-* Computer Vision [Link](https://changh95.github.io/computer_vision/) (Currently moving blog contents)
+* Computer Vision [Link](https://changh95.github.io/computer_vision/) (Just started!)
 * Machine Learning (Currently moving blog contents)
 * Robotics (Currently moving blog contents)
-* Simultaneous Localisation and Mapping [Link](https://github.com/slam-research-group-kr) (Currently moving blog contents)
+* Simultaneous Localisation and Mapping [Link](https://github.com/slam-research-group-kr)
 * Paper Recommendations (Currently moving blog contents)
