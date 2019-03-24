@@ -22,11 +22,11 @@ A Fearless Learner with Bi-Cultural Education (6 Years in Korea, 10 Years in the
 Currently I am...
 ====
 
-Currently in **Cambridge, United Kingdom**.
+I had an amazing opportunity to work at the **Cavendish Laboratory, University of Cambridge and Cancer Research UK** recently.
+
+Moving back to Korea on the 25th March 2019!
 
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
-
-Until the end of March, I'll be working as a **Visiting Researcher** at the **Cavendish Lab** at the **University of Cambridge / Cancer Research UK Cambridge Institute**. I am working on computer vision aspect of hyperspectral imaging system (HSI) for early-stage cancer detection.
 
 ------------------------------------------
 
