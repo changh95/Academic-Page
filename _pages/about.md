@@ -24,7 +24,7 @@ Currently I am...
 
 I had an amazing opportunity to work at the **Cavendish Laboratory, University of Cambridge and Cancer Research UK** recently.
 
-Moving back to Korea on the 25th March 2019!
+**Moving back to Korea on the 25th March 2019!**
 
 Looking for a research position **(전문연구요원) in computer vision or medical robotics area.**
 
