@@ -68,4 +68,5 @@ I run a few blogs to share knowledge and encourage fellow students.
 * Machine Learning (Currently moving blog contents)
 * Robotics (Currently moving blog contents)
 * Simultaneous Localisation and Mapping [Link](https://github.com/slam-research-group-kr)
+* C Programming [Link](https://www.notion.so/changh95/C-Language-8c3c3f28fbfd4bb69025f4fc93a3d56c)
 * Paper Recommendations (Currently moving blog contents)
