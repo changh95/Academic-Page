@@ -24,7 +24,7 @@ Currently I am...
 
 I had an amazing opportunity to work at the **Cavendish Laboratory, University of Cambridge and Cancer Research UK** recently.
 
-**Currently in Korea - will start working with [Virnect](https://www.virnect.com/) from the end of this month!**
+**Currently in Korea - will start working with [Virnect](https://www.virnect.com/) from the end of April!**
 
 ------------------------------------------
 
