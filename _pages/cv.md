@@ -84,6 +84,11 @@ Education
 
 Work Experience
 ====
+
+* Currently: SLAM Research Engineer
+  * VIRNECT, South Korea
+  * Duties included: Developing SLAM algorithms for augmented reality on mobile platform.
+
 * Spring 2019: Visiting Researcher
   * Cavendish Lab, University of Cambridge 
   * Duties included: Generation of 3.5D hyperspectral point cloud using Structure from Motion (SfM) and hyperspectral spatio-matching, via wide-field endoscopic imaging simulation.
@@ -104,6 +109,7 @@ Work Experience
 
 Leadership
 ==== 
+* 2019 Community Admin - Facebook 'AI Robotics KR'
 * 2018 Scholarship Group Leader - Facebook Udacity PyTorch Scholarship Programme
 * 2018 Lead Student Ambassador - The Hamlyn Robotic & AI Summer School
 * 2018 Master's Journal Club Lead - Imperial College London
@@ -122,7 +128,7 @@ Teaching
 * Summer 2016 : Residential Maths & Science Teacher
   * The Mount, Mill Hill International
   * Duties included: Taught maths & Science to non-English speaking students from age 12 to 18.
-  * I am featured in the promotion **[video](https://vimeo.com/179879639)**!
+  * I am featured in the **[video](https://vimeo.com/179879639) promotion**!
   
 * Spring 2016 : Teaching Assistant
   * North Leamington School
