@@ -22,9 +22,9 @@ A Fearless Learner with Bi-Cultural Education (6 Years in Korea, 10 Years in the
 Currently I am...
 ====
 
-I had an amazing opportunity to work at the **Cavendish Laboratory, University of Cambridge and Cancer Research UK** recently.
+working on SLAM algorithms for Augmented Reality on Mobile Platform at VIRNECT, South Korea!
 
-**Currently in Korea - will start working with [Virnect](https://www.virnect.com/) from the end of April!**
+Also, I am running a Facebook community on AI/Robotics called ['AI Robotics KR'](https://www.facebook.com/groups/airoboticskr/)
 
 ------------------------------------------
 
@@ -64,7 +64,7 @@ I run a few blogs to share knowledge and encourage fellow students.
 
 * Study-Resource-Reviews [Link](https://github.com/changh95/Study-Resources-Review)
 * Medical Imaging [Link](https://changh95.github.io/MIN/) (Currently moving blog contents)
-* Computer Vision [Link](https://changh95.github.io/computer_vision/) (Just started!)
+* Computer Vision [Link](https://changh95.github.io/computer_vision/) (Moving blog contents)
 * Machine Learning (Currently moving blog contents)
 * Robotics (Currently moving blog contents)
 * Simultaneous Localisation and Mapping [Link](https://github.com/slam-research-group-kr)
