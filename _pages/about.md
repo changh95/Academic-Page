@@ -22,7 +22,7 @@ A Fearless Learner with Bi-Cultural Education (6 Years in Korea, 10 Years in the
 Currently I am...
 ====
 
-working on SLAM algorithms for Augmented Reality on Mobile Platform at VIRNECT, South Korea!
+Working on a variety of computer vision algorithms for augmented reality applications on mobile platforms at VIRNECT, South Korea!
 
 ------------------------------------------
 
@@ -61,10 +61,9 @@ Blogs
 I run a few blogs to share knowledge and encourage fellow students.
 
 * Study-Resource-Reviews [Link](https://github.com/changh95/Study-Resources-Review)
-* Medical Imaging [Link](https://changh95.github.io/MIN/) (Currently moving blog contents)
-* Computer Vision [Link](https://changh95.github.io/computer_vision/) (Moving blog contents)
-* Machine Learning (Currently moving blog contents)
-* Robotics (Currently moving blog contents)
-* Simultaneous Localisation and Mapping [Link](https://github.com/slam-research-group-kr)
-* C Programming [Link](https://www.notion.so/changh95/C-Language-8c3c3f28fbfd4bb69025f4fc93a3d56c)
-* Paper Recommendations (Currently moving blog contents)
+* Programming Langues (C/C++/MATLAB/Python/Swift) [Link](https://www.notion.so/torchvision/Programming-85cf52feefc04ad699f9b4dffaff09ba)
+* Medical Imaging [Link](https://www.notion.so/torchvision/Image-Guided-Intervention-3332dcdfa0a64dc8b649f798ac3294c9)
+* Computer Vision [Link](https://www.notion.so/torchvision/Computer-Vision-bdc861158e7242e4a002c724bde93a20)
+* Simultaneous Localisation and Mapping [Link](https://www.notion.so/torchvision/Simultaneous-Localisation-and-Mapping-SLAM-b2112ee8356d409fa04e956f4a36e3e7)
+* Deep Learning [Link](https://www.notion.so/torchvision/Machine-Learning-Deep-Learning-638c9fbef8e849c092c3c39833a448d7)
+* Imaging [Link](https://www.notion.so/torchvision/Imaging-3596b36052ad461492c582d5fc211a65)
