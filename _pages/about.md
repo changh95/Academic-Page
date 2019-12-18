@@ -24,8 +24,6 @@ Currently I am...
 
 working on SLAM algorithms for Augmented Reality on Mobile Platform at VIRNECT, South Korea!
 
-Also, I am running a Facebook community on AI/Robotics called **['AI Robotics KR'](https://www.facebook.com/groups/airoboticskr/)**. AI Robotics KR is currently comprised of **1.5k members**, and is planning to start a inter-group study sessions on various topics including deep learning, reinforcement learning, robotics theory, ROS, computer vision, edge computing, cloud computing etc.
-
 ------------------------------------------
 
 Research Interests
@@ -33,8 +31,8 @@ Research Interests
 
 3D Vision, Deep Learning, Optical Sensing
 
-- Enabling a better user interaction by accurate representation of 3D world
-- Extend vision capability beyond visible spectrum with optical sensing
+- Enabling a better user interaction through accurate representations of the 3D world
+- Extend human vision capability beyond the visible spectrum with optical sensing
 - Building an optimised hardware and software configuration for best performance
 
 
