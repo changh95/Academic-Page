@@ -45,7 +45,7 @@ Contacts
 Email: hyunggi.chang95 'at' gmail.com
 
 
-Resume: [Link](https://github.com/changh95/Curriculum-Vitae/raw/master/Curriculum_Vitae.pdf)
+Resume: [Link](https://github.com/changh95/resume/raw/master/resume.pdf)
 
 
 Facebook: [Link](https://www.facebook.com/harry.chang.982)
