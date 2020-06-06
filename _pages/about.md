@@ -60,4 +60,4 @@ Blogs
 
 I often write blog posts about computer vision, augmented reality, imaging and programming to share knowledge and encourage fellow students.
 
-My blog: [cv-learn.com](cv-learn.com)
+My blog: [cv-learn.com](https://cv-learn.com)
